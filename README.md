@@ -14,9 +14,3 @@
 
 
 [Чек-лист: Авторизация](login_checklist.md)
-
-[Чек-лист: Работа с досками](boards_checklist.md)
-
-[Чек-лист: Работа со списками](lists_checklist.md)
-
-[Чек-лист: Работа с карточками](cards_checklist.md)
